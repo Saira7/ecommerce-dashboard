@@ -10,7 +10,9 @@
 
 ### Layout Strategy
 - **Sidebar Navigation** with routes for Dashboard, Analytics, Products, Inventory, and Settings.
+![SideBar](./public/Navbar.png)
 - **Header** with time-range selector, user menu, and theme toggle.
+![Header](./public/header.png)
 - **Component-Based Structure** for reusability (cards, tables, charts, etc.).
 
 ---
