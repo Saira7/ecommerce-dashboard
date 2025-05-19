@@ -49,7 +49,7 @@
 ### 📊 2. Analytics / Reports
 
 ![Analytics View](./public/revenue-analysis1.png)
-(./public/revenue-analysis2.png)
+![Analytics View2](./public/revenue-analysis2.png)
 
 **Functionality:**
 - Detailed data charts.
